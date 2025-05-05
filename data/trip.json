@@ -1,0 +1,2002 @@
+[
+  {
+    "trip_id": 1,
+    "created_at": "2025-10-26 12:24:30",
+    "pilot_id": 87,
+    "traveler_id": 33,
+    "pilot_rating": 3,
+    "start_time": "2025-06-09 06:19:33",
+    "end_time": "2025-06-09 06:57:33",
+    "trip_value": 36639
+  },
+  {
+    "trip_id": 2,
+    "created_at": "2024-06-09 17:15:43",
+    "pilot_id": 64,
+    "traveler_id": 70,
+    "pilot_rating": 3,
+    "start_time": "2024-07-20 09:47:12",
+    "end_time": "2024-07-20 11:19:12",
+    "trip_value": 31060
+  },
+  {
+    "trip_id": 3,
+    "created_at": "2024-01-01 18:36:59",
+    "pilot_id": 75,
+    "traveler_id": 77,
+    "pilot_rating": 5,
+    "start_time": "2024-08-30 18:43:22",
+    "end_time": "2024-08-30 21:32:22",
+    "trip_value": 11381
+  },
+  {
+    "trip_id": 4,
+    "created_at": "2025-10-08 03:07:58",
+    "pilot_id": 23,
+    "traveler_id": 58,
+    "pilot_rating": 5,
+    "start_time": "2025-07-27 20:24:36",
+    "end_time": "2025-07-27 20:45:36",
+    "trip_value": 23247
+  },
+  {
+    "trip_id": 5,
+    "created_at": "2024-06-24 03:25:11",
+    "pilot_id": 16,
+    "traveler_id": 62,
+    "pilot_rating": 4,
+    "start_time": "2025-09-02 02:22:03",
+    "end_time": "2025-09-02 04:13:03",
+    "trip_value": 46425
+  },
+  {
+    "trip_id": 6,
+    "created_at": "2025-11-21 15:09:39",
+    "pilot_id": 58,
+    "traveler_id": 61,
+    "pilot_rating": 3,
+    "start_time": "2025-02-19 05:22:09",
+    "end_time": "2025-02-19 07:18:09",
+    "trip_value": 16455
+  },
+  {
+    "trip_id": 7,
+    "created_at": "2024-07-07 14:15:05",
+    "pilot_id": 100,
+    "traveler_id": 36,
+    "pilot_rating": 3,
+    "start_time": "2025-12-18 10:08:35",
+    "end_time": "2025-12-18 11:34:35",
+    "trip_value": 36618
+  },
+  {
+    "trip_id": 8,
+    "created_at": "2025-05-28 09:13:30",
+    "pilot_id": 32,
+    "traveler_id": 34,
+    "pilot_rating": 5,
+    "start_time": "2025-08-16 06:39:31",
+    "end_time": "2025-08-16 07:26:31",
+    "trip_value": 23446
+  },
+  {
+    "trip_id": 9,
+    "created_at": "2024-01-14 23:50:57",
+    "pilot_id": 74,
+    "traveler_id": 33,
+    "pilot_rating": 4,
+    "start_time": "2025-08-07 13:25:17",
+    "end_time": "2025-08-07 15:05:17",
+    "trip_value": 48473
+  },
+  {
+    "trip_id": 10,
+    "created_at": "2024-06-26 23:42:41",
+    "pilot_id": 27,
+    "traveler_id": 35,
+    "pilot_rating": 3,
+    "start_time": "2025-11-03 22:31:53",
+    "end_time": "2025-11-03 23:10:53",
+    "trip_value": 46529
+  },
+  {
+    "trip_id": 11,
+    "created_at": "2025-04-20 23:52:04",
+    "pilot_id": 16,
+    "traveler_id": 100,
+    "pilot_rating": 3,
+    "start_time": "2024-12-31 22:28:44",
+    "end_time": "2024-12-31 23:54:44",
+    "trip_value": 40443
+  },
+  {
+    "trip_id": 12,
+    "created_at": "2025-02-06 16:51:58",
+    "pilot_id": 61,
+    "traveler_id": 40,
+    "pilot_rating": 5,
+    "start_time": "2024-11-15 12:59:04",
+    "end_time": "2024-11-15 13:15:04",
+    "trip_value": 36077
+  },
+  {
+    "trip_id": 13,
+    "created_at": "2024-01-18 22:13:51",
+    "pilot_id": 31,
+    "traveler_id": 10,
+    "pilot_rating": 4,
+    "start_time": "2024-10-21 03:30:14",
+    "end_time": "2024-10-21 03:50:14",
+    "trip_value": 21678
+  },
+  {
+    "trip_id": 14,
+    "created_at": "2025-05-23 01:18:00",
+    "pilot_id": 76,
+    "traveler_id": 55,
+    "pilot_rating": 5,
+    "start_time": "2024-07-27 00:03:31",
+    "end_time": "2024-07-27 02:51:31",
+    "trip_value": 11309
+  },
+  {
+    "trip_id": 15,
+    "created_at": "2025-10-28 02:28:36",
+    "pilot_id": 33,
+    "traveler_id": 41,
+    "pilot_rating": 3,
+    "start_time": "2025-04-24 00:07:37",
+    "end_time": "2025-04-24 02:52:37",
+    "trip_value": 18945
+  },
+  {
+    "trip_id": 16,
+    "created_at": "2025-09-30 04:18:48",
+    "pilot_id": 14,
+    "traveler_id": 86,
+    "pilot_rating": 5,
+    "start_time": "2025-05-14 16:56:21",
+    "end_time": "2025-05-14 19:22:21",
+    "trip_value": 35151
+  },
+  {
+    "trip_id": 17,
+    "created_at": "2024-05-30 00:02:45",
+    "pilot_id": 65,
+    "traveler_id": 44,
+    "pilot_rating": 3,
+    "start_time": "2024-07-25 01:16:09",
+    "end_time": "2024-07-25 02:54:09",
+    "trip_value": 37884
+  },
+  {
+    "trip_id": 18,
+    "created_at": "2024-03-06 10:43:56",
+    "pilot_id": 100,
+    "traveler_id": 64,
+    "pilot_rating": 3,
+    "start_time": "2024-09-21 11:48:58",
+    "end_time": "2024-09-21 12:15:58",
+    "trip_value": 21150
+  },
+  {
+    "trip_id": 19,
+    "created_at": "2025-02-13 21:56:06",
+    "pilot_id": 21,
+    "traveler_id": 71,
+    "pilot_rating": 5,
+    "start_time": "2024-08-29 21:41:32",
+    "end_time": "2024-08-30 00:28:32",
+    "trip_value": 20371
+  },
+  {
+    "trip_id": 20,
+    "created_at": "2024-11-09 19:36:11",
+    "pilot_id": 37,
+    "traveler_id": 96,
+    "pilot_rating": 5,
+    "start_time": "2025-06-07 21:34:02",
+    "end_time": "2025-06-07 22:27:02",
+    "trip_value": 37609
+  },
+  {
+    "trip_id": 21,
+    "created_at": "2025-01-21 08:29:00",
+    "pilot_id": 30,
+    "traveler_id": 81,
+    "pilot_rating": 5,
+    "start_time": "2024-04-27 07:31:52",
+    "end_time": "2024-04-27 10:15:52",
+    "trip_value": 21779
+  },
+  {
+    "trip_id": 22,
+    "created_at": "2025-12-22 06:55:50",
+    "pilot_id": 66,
+    "traveler_id": 81,
+    "pilot_rating": 5,
+    "start_time": "2024-06-03 13:52:01",
+    "end_time": "2024-06-03 16:02:01",
+    "trip_value": 29312
+  },
+  {
+    "trip_id": 23,
+    "created_at": "2024-11-02 10:04:43",
+    "pilot_id": 9,
+    "traveler_id": 70,
+    "pilot_rating": 4,
+    "start_time": "2024-03-03 23:32:57",
+    "end_time": "2024-03-04 02:14:57",
+    "trip_value": 28803
+  },
+  {
+    "trip_id": 24,
+    "created_at": "2025-12-12 02:54:46",
+    "pilot_id": 87,
+    "traveler_id": 3,
+    "pilot_rating": 4,
+    "start_time": "2025-09-29 12:16:32",
+    "end_time": "2025-09-29 12:29:32",
+    "trip_value": 33286
+  },
+  {
+    "trip_id": 25,
+    "created_at": "2025-10-14 11:11:54",
+    "pilot_id": 48,
+    "traveler_id": 12,
+    "pilot_rating": 5,
+    "start_time": "2025-11-10 01:34:24",
+    "end_time": "2025-11-10 02:59:24",
+    "trip_value": 14107
+  },
+  {
+    "trip_id": 26,
+    "created_at": "2024-08-02 02:38:34",
+    "pilot_id": 64,
+    "traveler_id": 22,
+    "pilot_rating": 3,
+    "start_time": "2024-06-21 21:44:02",
+    "end_time": "2024-06-21 23:20:02",
+    "trip_value": 35204
+  },
+  {
+    "trip_id": 27,
+    "created_at": "2025-06-05 01:44:45",
+    "pilot_id": 45,
+    "traveler_id": 55,
+    "pilot_rating": 3,
+    "start_time": "2025-10-25 23:35:36",
+    "end_time": "2025-10-26 00:18:36",
+    "trip_value": 10855
+  },
+  {
+    "trip_id": 28,
+    "created_at": "2025-08-21 01:41:45",
+    "pilot_id": 16,
+    "traveler_id": 4,
+    "pilot_rating": 4,
+    "start_time": "2024-04-11 21:28:11",
+    "end_time": "2024-04-11 22:32:11",
+    "trip_value": 10873
+  },
+  {
+    "trip_id": 29,
+    "created_at": "2024-02-04 16:39:24",
+    "pilot_id": 61,
+    "traveler_id": 23,
+    "pilot_rating": 5,
+    "start_time": "2025-06-20 20:45:24",
+    "end_time": "2025-06-20 23:17:24",
+    "trip_value": 13678
+  },
+  {
+    "trip_id": 30,
+    "created_at": "2024-07-14 21:11:13",
+    "pilot_id": 93,
+    "traveler_id": 66,
+    "pilot_rating": 4,
+    "start_time": "2024-07-08 00:37:50",
+    "end_time": "2024-07-08 02:44:50",
+    "trip_value": 38331
+  },
+  {
+    "trip_id": 31,
+    "created_at": "2025-09-07 19:18:57",
+    "pilot_id": 80,
+    "traveler_id": 24,
+    "pilot_rating": 3,
+    "start_time": "2024-02-13 13:27:34",
+    "end_time": "2024-02-13 14:52:34",
+    "trip_value": 44333
+  },
+  {
+    "trip_id": 32,
+    "created_at": "2024-12-31 05:54:52",
+    "pilot_id": 79,
+    "traveler_id": 23,
+    "pilot_rating": 4,
+    "start_time": "2025-07-16 12:45:58",
+    "end_time": "2025-07-16 15:06:58",
+    "trip_value": 21200
+  },
+  {
+    "trip_id": 33,
+    "created_at": "2024-07-25 15:46:26",
+    "pilot_id": 6,
+    "traveler_id": 2,
+    "pilot_rating": 3,
+    "start_time": "2025-12-11 11:20:28",
+    "end_time": "2025-12-11 14:14:28",
+    "trip_value": 32609
+  },
+  {
+    "trip_id": 34,
+    "created_at": "2025-05-05 05:09:39",
+    "pilot_id": 90,
+    "traveler_id": 9,
+    "pilot_rating": 3,
+    "start_time": "2024-06-10 17:42:08",
+    "end_time": "2024-06-10 19:56:08",
+    "trip_value": 44435
+  },
+  {
+    "trip_id": 35,
+    "created_at": "2025-06-05 03:30:49",
+    "pilot_id": 52,
+    "traveler_id": 46,
+    "pilot_rating": 5,
+    "start_time": "2024-08-31 00:33:16",
+    "end_time": "2024-08-31 03:00:16",
+    "trip_value": 40578
+  },
+  {
+    "trip_id": 36,
+    "created_at": "2025-01-01 20:09:35",
+    "pilot_id": 35,
+    "traveler_id": 36,
+    "pilot_rating": 3,
+    "start_time": "2024-03-08 22:54:20",
+    "end_time": "2024-03-09 00:32:20",
+    "trip_value": 12156
+  },
+  {
+    "trip_id": 37,
+    "created_at": "2025-09-22 15:03:34",
+    "pilot_id": 26,
+    "traveler_id": 34,
+    "pilot_rating": 5,
+    "start_time": "2025-09-21 20:02:41",
+    "end_time": "2025-09-21 21:31:41",
+    "trip_value": 11518
+  },
+  {
+    "trip_id": 38,
+    "created_at": "2024-06-19 23:33:02",
+    "pilot_id": 29,
+    "traveler_id": 24,
+    "pilot_rating": 3,
+    "start_time": "2025-09-07 23:16:41",
+    "end_time": "2025-09-08 02:01:41",
+    "trip_value": 11097
+  },
+  {
+    "trip_id": 39,
+    "created_at": "2024-12-01 09:09:44",
+    "pilot_id": 53,
+    "traveler_id": 95,
+    "pilot_rating": 5,
+    "start_time": "2024-04-14 20:40:36",
+    "end_time": "2024-04-14 23:31:36",
+    "trip_value": 16663
+  },
+  {
+    "trip_id": 40,
+    "created_at": "2024-12-31 07:35:58",
+    "pilot_id": 92,
+    "traveler_id": 89,
+    "pilot_rating": 3,
+    "start_time": "2024-01-17 10:39:59",
+    "end_time": "2024-01-17 11:06:59",
+    "trip_value": 31799
+  },
+  {
+    "trip_id": 41,
+    "created_at": "2024-05-04 20:43:22",
+    "pilot_id": 36,
+    "traveler_id": 57,
+    "pilot_rating": 4,
+    "start_time": "2025-12-13 06:48:22",
+    "end_time": "2025-12-13 07:48:22",
+    "trip_value": 11082
+  },
+  {
+    "trip_id": 42,
+    "created_at": "2024-03-14 22:12:13",
+    "pilot_id": 58,
+    "traveler_id": 81,
+    "pilot_rating": 5,
+    "start_time": "2024-08-30 14:09:16",
+    "end_time": "2024-08-30 17:04:16",
+    "trip_value": 48370
+  },
+  {
+    "trip_id": 43,
+    "created_at": "2025-12-23 00:49:11",
+    "pilot_id": 91,
+    "traveler_id": 95,
+    "pilot_rating": 5,
+    "start_time": "2025-06-25 17:39:26",
+    "end_time": "2025-06-25 19:54:26",
+    "trip_value": 42729
+  },
+  {
+    "trip_id": 44,
+    "created_at": "2024-07-08 06:56:13",
+    "pilot_id": 19,
+    "traveler_id": 54,
+    "pilot_rating": 3,
+    "start_time": "2024-12-05 01:50:36",
+    "end_time": "2024-12-05 02:01:36",
+    "trip_value": 23988
+  },
+  {
+    "trip_id": 45,
+    "created_at": "2024-05-18 20:47:01",
+    "pilot_id": 93,
+    "traveler_id": 11,
+    "pilot_rating": 5,
+    "start_time": "2025-10-13 05:49:55",
+    "end_time": "2025-10-13 08:24:55",
+    "trip_value": 12941
+  },
+  {
+    "trip_id": 46,
+    "created_at": "2024-09-04 15:58:00",
+    "pilot_id": 91,
+    "traveler_id": 26,
+    "pilot_rating": 3,
+    "start_time": "2024-03-09 22:22:48",
+    "end_time": "2024-03-09 22:49:48",
+    "trip_value": 47927
+  },
+  {
+    "trip_id": 47,
+    "created_at": "2025-05-02 09:32:13",
+    "pilot_id": 13,
+    "traveler_id": 99,
+    "pilot_rating": 3,
+    "start_time": "2025-01-23 16:36:36",
+    "end_time": "2025-01-23 17:19:36",
+    "trip_value": 36981
+  },
+  {
+    "trip_id": 48,
+    "created_at": "2024-01-21 23:54:43",
+    "pilot_id": 59,
+    "traveler_id": 10,
+    "pilot_rating": 5,
+    "start_time": "2025-07-03 03:45:34",
+    "end_time": "2025-07-03 05:51:34",
+    "trip_value": 37722
+  },
+  {
+    "trip_id": 49,
+    "created_at": "2025-08-31 03:04:55",
+    "pilot_id": 5,
+    "traveler_id": 10,
+    "pilot_rating": 5,
+    "start_time": "2024-10-29 08:09:55",
+    "end_time": "2024-10-29 09:42:55",
+    "trip_value": 37171
+  },
+  {
+    "trip_id": 50,
+    "created_at": "2025-07-22 20:06:43",
+    "pilot_id": 73,
+    "traveler_id": 49,
+    "pilot_rating": 3,
+    "start_time": "2025-11-18 17:45:13",
+    "end_time": "2025-11-18 19:47:13",
+    "trip_value": 33149
+  },
+  {
+    "trip_id": 51,
+    "created_at": "2024-11-02 18:25:57",
+    "pilot_id": 89,
+    "traveler_id": 18,
+    "pilot_rating": 5,
+    "start_time": "2024-03-23 23:30:05",
+    "end_time": "2024-03-24 02:08:05",
+    "trip_value": 23036
+  },
+  {
+    "trip_id": 52,
+    "created_at": "2024-07-04 19:35:59",
+    "pilot_id": 54,
+    "traveler_id": 84,
+    "pilot_rating": 3,
+    "start_time": "2024-01-08 02:27:37",
+    "end_time": "2024-01-08 03:19:37",
+    "trip_value": 22408
+  },
+  {
+    "trip_id": 53,
+    "created_at": "2024-11-13 15:12:11",
+    "pilot_id": 39,
+    "traveler_id": 48,
+    "pilot_rating": 3,
+    "start_time": "2024-09-18 09:13:08",
+    "end_time": "2024-09-18 11:09:08",
+    "trip_value": 37737
+  },
+  {
+    "trip_id": 54,
+    "created_at": "2025-12-20 05:54:29",
+    "pilot_id": 20,
+    "traveler_id": 61,
+    "pilot_rating": 5,
+    "start_time": "2025-01-11 03:20:22",
+    "end_time": "2025-01-11 04:13:22",
+    "trip_value": 47300
+  },
+  {
+    "trip_id": 55,
+    "created_at": "2025-07-20 14:21:17",
+    "pilot_id": 5,
+    "traveler_id": 86,
+    "pilot_rating": 5,
+    "start_time": "2024-05-26 23:12:00",
+    "end_time": "2024-05-27 01:25:00",
+    "trip_value": 28187
+  },
+  {
+    "trip_id": 56,
+    "created_at": "2025-03-05 00:59:29",
+    "pilot_id": 28,
+    "traveler_id": 75,
+    "pilot_rating": 5,
+    "start_time": "2024-04-25 17:39:31",
+    "end_time": "2024-04-25 18:56:31",
+    "trip_value": 21703
+  },
+  {
+    "trip_id": 57,
+    "created_at": "2024-04-12 17:00:18",
+    "pilot_id": 51,
+    "traveler_id": 54,
+    "pilot_rating": 4,
+    "start_time": "2024-10-26 22:41:38",
+    "end_time": "2024-10-27 00:13:38",
+    "trip_value": 27698
+  },
+  {
+    "trip_id": 58,
+    "created_at": "2025-05-10 00:30:13",
+    "pilot_id": 12,
+    "traveler_id": 9,
+    "pilot_rating": 3,
+    "start_time": "2024-11-08 06:52:21",
+    "end_time": "2024-11-08 09:43:21",
+    "trip_value": 13143
+  },
+  {
+    "trip_id": 59,
+    "created_at": "2025-07-29 08:51:47",
+    "pilot_id": 17,
+    "traveler_id": 90,
+    "pilot_rating": 3,
+    "start_time": "2025-08-08 18:53:30",
+    "end_time": "2025-08-08 21:04:30",
+    "trip_value": 17668
+  },
+  {
+    "trip_id": 60,
+    "created_at": "2025-08-22 21:07:06",
+    "pilot_id": 63,
+    "traveler_id": 92,
+    "pilot_rating": 3,
+    "start_time": "2024-12-28 04:17:29",
+    "end_time": "2024-12-28 06:48:29",
+    "trip_value": 40975
+  },
+  {
+    "trip_id": 61,
+    "created_at": "2024-08-31 14:57:12",
+    "pilot_id": 77,
+    "traveler_id": 44,
+    "pilot_rating": 4,
+    "start_time": "2025-06-18 05:38:10",
+    "end_time": "2025-06-18 07:55:10",
+    "trip_value": 35936
+  },
+  {
+    "trip_id": 62,
+    "created_at": "2025-04-19 08:01:51",
+    "pilot_id": 41,
+    "traveler_id": 3,
+    "pilot_rating": 3,
+    "start_time": "2024-11-06 11:47:11",
+    "end_time": "2024-11-06 12:56:11",
+    "trip_value": 27415
+  },
+  {
+    "trip_id": 63,
+    "created_at": "2025-12-08 23:37:02",
+    "pilot_id": 1,
+    "traveler_id": 5,
+    "pilot_rating": 5,
+    "start_time": "2024-06-15 09:26:49",
+    "end_time": "2024-06-15 11:28:49",
+    "trip_value": 43842
+  },
+  {
+    "trip_id": 64,
+    "created_at": "2024-04-20 01:31:14",
+    "pilot_id": 68,
+    "traveler_id": 100,
+    "pilot_rating": 3,
+    "start_time": "2025-07-10 22:34:06",
+    "end_time": "2025-07-10 23:54:06",
+    "trip_value": 35546
+  },
+  {
+    "trip_id": 65,
+    "created_at": "2024-06-15 15:24:49",
+    "pilot_id": 98,
+    "traveler_id": 54,
+    "pilot_rating": 3,
+    "start_time": "2024-03-14 17:29:26",
+    "end_time": "2024-03-14 20:10:26",
+    "trip_value": 31598
+  },
+  {
+    "trip_id": 66,
+    "created_at": "2024-06-15 23:52:11",
+    "pilot_id": 7,
+    "traveler_id": 54,
+    "pilot_rating": 5,
+    "start_time": "2024-06-05 00:17:11",
+    "end_time": "2024-06-05 02:44:11",
+    "trip_value": 20154
+  },
+  {
+    "trip_id": 67,
+    "created_at": "2024-08-24 04:18:37",
+    "pilot_id": 54,
+    "traveler_id": 57,
+    "pilot_rating": 4,
+    "start_time": "2025-01-23 18:49:55",
+    "end_time": "2025-01-23 21:13:55",
+    "trip_value": 11721
+  },
+  {
+    "trip_id": 68,
+    "created_at": "2025-09-22 19:03:07",
+    "pilot_id": 53,
+    "traveler_id": 59,
+    "pilot_rating": 5,
+    "start_time": "2025-08-23 18:37:40",
+    "end_time": "2025-08-23 21:05:40",
+    "trip_value": 34120
+  },
+  {
+    "trip_id": 69,
+    "created_at": "2025-05-16 20:06:37",
+    "pilot_id": 66,
+    "traveler_id": 14,
+    "pilot_rating": 5,
+    "start_time": "2025-09-12 02:46:46",
+    "end_time": "2025-09-12 04:27:46",
+    "trip_value": 32488
+  },
+  {
+    "trip_id": 70,
+    "created_at": "2025-04-15 12:22:36",
+    "pilot_id": 1,
+    "traveler_id": 88,
+    "pilot_rating": 3,
+    "start_time": "2025-02-13 11:25:15",
+    "end_time": "2025-02-13 11:36:15",
+    "trip_value": 10762
+  },
+  {
+    "trip_id": 71,
+    "created_at": "2024-09-17 18:01:49",
+    "pilot_id": 17,
+    "traveler_id": 18,
+    "pilot_rating": 5,
+    "start_time": "2024-01-29 17:39:18",
+    "end_time": "2024-01-29 18:54:18",
+    "trip_value": 21208
+  },
+  {
+    "trip_id": 72,
+    "created_at": "2024-05-08 21:49:12",
+    "pilot_id": 81,
+    "traveler_id": 13,
+    "pilot_rating": 5,
+    "start_time": "2025-11-30 18:01:00",
+    "end_time": "2025-11-30 18:27:00",
+    "trip_value": 39874
+  },
+  {
+    "trip_id": 73,
+    "created_at": "2025-10-19 11:32:31",
+    "pilot_id": 93,
+    "traveler_id": 94,
+    "pilot_rating": 4,
+    "start_time": "2025-03-04 02:04:20",
+    "end_time": "2025-03-04 04:39:20",
+    "trip_value": 39233
+  },
+  {
+    "trip_id": 74,
+    "created_at": "2025-12-21 16:49:12",
+    "pilot_id": 90,
+    "traveler_id": 33,
+    "pilot_rating": 5,
+    "start_time": "2024-10-05 03:30:03",
+    "end_time": "2024-10-05 05:40:03",
+    "trip_value": 35000
+  },
+  {
+    "trip_id": 75,
+    "created_at": "2024-11-14 01:37:11",
+    "pilot_id": 74,
+    "traveler_id": 36,
+    "pilot_rating": 3,
+    "start_time": "2024-03-17 07:05:16",
+    "end_time": "2024-03-17 09:46:16",
+    "trip_value": 46145
+  },
+  {
+    "trip_id": 76,
+    "created_at": "2024-11-27 02:12:51",
+    "pilot_id": 69,
+    "traveler_id": 21,
+    "pilot_rating": 3,
+    "start_time": "2025-08-20 22:53:00",
+    "end_time": "2025-08-20 23:29:00",
+    "trip_value": 41553
+  },
+  {
+    "trip_id": 77,
+    "created_at": "2025-08-08 22:41:04",
+    "pilot_id": 33,
+    "traveler_id": 17,
+    "pilot_rating": 3,
+    "start_time": "2025-12-20 04:10:28",
+    "end_time": "2025-12-20 04:29:28",
+    "trip_value": 48758
+  },
+  {
+    "trip_id": 78,
+    "created_at": "2024-04-08 15:53:16",
+    "pilot_id": 49,
+    "traveler_id": 20,
+    "pilot_rating": 3,
+    "start_time": "2024-01-27 05:30:38",
+    "end_time": "2024-01-27 07:26:38",
+    "trip_value": 35689
+  },
+  {
+    "trip_id": 79,
+    "created_at": "2024-03-02 15:35:36",
+    "pilot_id": 56,
+    "traveler_id": 1,
+    "pilot_rating": 3,
+    "start_time": "2025-01-02 11:09:05",
+    "end_time": "2025-01-02 13:25:05",
+    "trip_value": 34499
+  },
+  {
+    "trip_id": 80,
+    "created_at": "2024-06-14 12:02:51",
+    "pilot_id": 99,
+    "traveler_id": 61,
+    "pilot_rating": 4,
+    "start_time": "2025-10-16 16:48:08",
+    "end_time": "2025-10-16 19:31:08",
+    "trip_value": 36872
+  },
+  {
+    "trip_id": 81,
+    "created_at": "2025-12-03 00:56:59",
+    "pilot_id": 90,
+    "traveler_id": 20,
+    "pilot_rating": 3,
+    "start_time": "2024-07-03 20:45:58",
+    "end_time": "2024-07-03 22:21:58",
+    "trip_value": 17702
+  },
+  {
+    "trip_id": 82,
+    "created_at": "2024-05-04 15:02:16",
+    "pilot_id": 97,
+    "traveler_id": 18,
+    "pilot_rating": 4,
+    "start_time": "2025-05-01 21:27:56",
+    "end_time": "2025-05-01 22:44:56",
+    "trip_value": 32217
+  },
+  {
+    "trip_id": 83,
+    "created_at": "2025-11-06 22:12:52",
+    "pilot_id": 69,
+    "traveler_id": 33,
+    "pilot_rating": 3,
+    "start_time": "2024-06-02 21:28:16",
+    "end_time": "2024-06-02 22:42:16",
+    "trip_value": 31170
+  },
+  {
+    "trip_id": 84,
+    "created_at": "2024-02-16 17:33:46",
+    "pilot_id": 71,
+    "traveler_id": 45,
+    "pilot_rating": 5,
+    "start_time": "2025-11-02 11:11:04",
+    "end_time": "2025-11-02 12:27:04",
+    "trip_value": 12416
+  },
+  {
+    "trip_id": 85,
+    "created_at": "2025-10-31 20:50:55",
+    "pilot_id": 63,
+    "traveler_id": 3,
+    "pilot_rating": 4,
+    "start_time": "2025-03-03 00:20:11",
+    "end_time": "2025-03-03 03:08:11",
+    "trip_value": 24143
+  },
+  {
+    "trip_id": 86,
+    "created_at": "2025-09-12 22:02:30",
+    "pilot_id": 96,
+    "traveler_id": 29,
+    "pilot_rating": 3,
+    "start_time": "2024-10-14 02:06:31",
+    "end_time": "2024-10-14 02:17:31",
+    "trip_value": 13557
+  },
+  {
+    "trip_id": 87,
+    "created_at": "2024-11-28 12:00:41",
+    "pilot_id": 63,
+    "traveler_id": 5,
+    "pilot_rating": 5,
+    "start_time": "2025-12-11 02:47:00",
+    "end_time": "2025-12-11 05:46:00",
+    "trip_value": 42207
+  },
+  {
+    "trip_id": 88,
+    "created_at": "2024-12-28 01:54:47",
+    "pilot_id": 90,
+    "traveler_id": 69,
+    "pilot_rating": 5,
+    "start_time": "2024-09-25 12:06:30",
+    "end_time": "2024-09-25 12:24:30",
+    "trip_value": 24532
+  },
+  {
+    "trip_id": 89,
+    "created_at": "2024-01-03 18:55:18",
+    "pilot_id": 75,
+    "traveler_id": 64,
+    "pilot_rating": 5,
+    "start_time": "2025-12-22 04:06:48",
+    "end_time": "2025-12-22 05:43:48",
+    "trip_value": 23298
+  },
+  {
+    "trip_id": 90,
+    "created_at": "2024-01-24 06:46:05",
+    "pilot_id": 25,
+    "traveler_id": 65,
+    "pilot_rating": 4,
+    "start_time": "2024-04-13 21:24:18",
+    "end_time": "2024-04-13 21:52:18",
+    "trip_value": 26055
+  },
+  {
+    "trip_id": 91,
+    "created_at": "2025-06-14 17:54:23",
+    "pilot_id": 75,
+    "traveler_id": 83,
+    "pilot_rating": 4,
+    "start_time": "2025-02-02 19:29:06",
+    "end_time": "2025-02-02 19:47:06",
+    "trip_value": 48615
+  },
+  {
+    "trip_id": 92,
+    "created_at": "2024-01-25 23:34:13",
+    "pilot_id": 46,
+    "traveler_id": 5,
+    "pilot_rating": 3,
+    "start_time": "2025-03-07 20:20:54",
+    "end_time": "2025-03-07 22:14:54",
+    "trip_value": 40015
+  },
+  {
+    "trip_id": 93,
+    "created_at": "2024-01-29 21:23:02",
+    "pilot_id": 31,
+    "traveler_id": 23,
+    "pilot_rating": 3,
+    "start_time": "2024-01-12 05:30:32",
+    "end_time": "2024-01-12 08:06:32",
+    "trip_value": 24774
+  },
+  {
+    "trip_id": 94,
+    "created_at": "2024-06-17 17:59:20",
+    "pilot_id": 36,
+    "traveler_id": 36,
+    "pilot_rating": 4,
+    "start_time": "2024-02-03 04:47:00",
+    "end_time": "2024-02-03 06:16:00",
+    "trip_value": 21168
+  },
+  {
+    "trip_id": 95,
+    "created_at": "2025-12-11 14:32:34",
+    "pilot_id": 11,
+    "traveler_id": 30,
+    "pilot_rating": 5,
+    "start_time": "2025-08-02 23:59:55",
+    "end_time": "2025-08-03 00:44:55",
+    "trip_value": 37595
+  },
+  {
+    "trip_id": 96,
+    "created_at": "2025-12-03 20:04:41",
+    "pilot_id": 2,
+    "traveler_id": 22,
+    "pilot_rating": 5,
+    "start_time": "2025-04-06 10:50:33",
+    "end_time": "2025-04-06 11:49:33",
+    "trip_value": 25915
+  },
+  {
+    "trip_id": 97,
+    "created_at": "2024-02-11 07:41:16",
+    "pilot_id": 67,
+    "traveler_id": 12,
+    "pilot_rating": 4,
+    "start_time": "2025-02-15 18:09:24",
+    "end_time": "2025-02-15 19:58:24",
+    "trip_value": 24330
+  },
+  {
+    "trip_id": 98,
+    "created_at": "2024-11-23 20:49:13",
+    "pilot_id": 10,
+    "traveler_id": 44,
+    "pilot_rating": 4,
+    "start_time": "2024-11-17 05:03:49",
+    "end_time": "2024-11-17 05:49:49",
+    "trip_value": 24739
+  },
+  {
+    "trip_id": 99,
+    "created_at": "2024-07-20 20:09:56",
+    "pilot_id": 98,
+    "traveler_id": 22,
+    "pilot_rating": 4,
+    "start_time": "2024-03-19 12:46:55",
+    "end_time": "2024-03-19 13:58:55",
+    "trip_value": 47420
+  },
+  {
+    "trip_id": 100,
+    "created_at": "2025-09-29 02:17:35",
+    "pilot_id": 65,
+    "traveler_id": 40,
+    "pilot_rating": 5,
+    "start_time": "2025-08-05 10:34:08",
+    "end_time": "2025-08-05 11:02:08",
+    "trip_value": 21327
+  },
+  {
+    "trip_id": 101,
+    "created_at": "2025-01-02 16:39:13",
+    "pilot_id": 71,
+    "traveler_id": 99,
+    "pilot_rating": 3,
+    "start_time": "2024-04-19 09:33:55",
+    "end_time": "2024-04-19 11:54:55",
+    "trip_value": 13135
+  },
+  {
+    "trip_id": 102,
+    "created_at": "2025-03-19 18:46:14",
+    "pilot_id": 13,
+    "traveler_id": 49,
+    "pilot_rating": 5,
+    "start_time": "2024-07-27 10:02:21",
+    "end_time": "2024-07-27 10:16:21",
+    "trip_value": 33149
+  },
+  {
+    "trip_id": 103,
+    "created_at": "2025-11-06 17:07:38",
+    "pilot_id": 23,
+    "traveler_id": 46,
+    "pilot_rating": 3,
+    "start_time": "2024-05-12 00:27:08",
+    "end_time": "2024-05-12 01:32:08",
+    "trip_value": 31052
+  },
+  {
+    "trip_id": 104,
+    "created_at": "2025-08-19 19:35:47",
+    "pilot_id": 5,
+    "traveler_id": 90,
+    "pilot_rating": 4,
+    "start_time": "2024-11-27 22:22:28",
+    "end_time": "2024-11-28 00:36:28",
+    "trip_value": 15697
+  },
+  {
+    "trip_id": 105,
+    "created_at": "2024-10-18 21:05:10",
+    "pilot_id": 65,
+    "traveler_id": 81,
+    "pilot_rating": 5,
+    "start_time": "2024-08-23 00:28:11",
+    "end_time": "2024-08-23 02:04:11",
+    "trip_value": 38753
+  },
+  {
+    "trip_id": 106,
+    "created_at": "2024-07-13 12:42:06",
+    "pilot_id": 49,
+    "traveler_id": 51,
+    "pilot_rating": 4,
+    "start_time": "2024-03-27 20:56:33",
+    "end_time": "2024-03-27 23:31:33",
+    "trip_value": 39623
+  },
+  {
+    "trip_id": 107,
+    "created_at": "2025-10-07 21:12:12",
+    "pilot_id": 28,
+    "traveler_id": 72,
+    "pilot_rating": 3,
+    "start_time": "2025-06-18 21:48:28",
+    "end_time": "2025-06-18 22:24:28",
+    "trip_value": 16370
+  },
+  {
+    "trip_id": 108,
+    "created_at": "2025-11-11 17:20:19",
+    "pilot_id": 9,
+    "traveler_id": 72,
+    "pilot_rating": 5,
+    "start_time": "2024-12-12 23:57:18",
+    "end_time": "2024-12-13 01:54:18",
+    "trip_value": 26708
+  },
+  {
+    "trip_id": 109,
+    "created_at": "2025-05-15 22:59:29",
+    "pilot_id": 17,
+    "traveler_id": 58,
+    "pilot_rating": 3,
+    "start_time": "2024-05-22 23:05:51",
+    "end_time": "2024-05-23 01:59:51",
+    "trip_value": 10372
+  },
+  {
+    "trip_id": 110,
+    "created_at": "2025-12-29 08:31:44",
+    "pilot_id": 87,
+    "traveler_id": 71,
+    "pilot_rating": 3,
+    "start_time": "2024-01-13 06:32:11",
+    "end_time": "2024-01-13 07:30:11",
+    "trip_value": 47498
+  },
+  {
+    "trip_id": 111,
+    "created_at": "2025-10-30 23:10:56",
+    "pilot_id": 5,
+    "traveler_id": 59,
+    "pilot_rating": 3,
+    "start_time": "2025-11-25 12:26:30",
+    "end_time": "2025-11-25 13:26:30",
+    "trip_value": 40325
+  },
+  {
+    "trip_id": 112,
+    "created_at": "2025-10-31 19:20:16",
+    "pilot_id": 20,
+    "traveler_id": 17,
+    "pilot_rating": 5,
+    "start_time": "2025-11-19 14:51:21",
+    "end_time": "2025-11-19 17:38:21",
+    "trip_value": 49550
+  },
+  {
+    "trip_id": 113,
+    "created_at": "2025-01-21 18:38:26",
+    "pilot_id": 24,
+    "traveler_id": 72,
+    "pilot_rating": 4,
+    "start_time": "2024-01-30 20:49:51",
+    "end_time": "2024-01-30 21:32:51",
+    "trip_value": 12009
+  },
+  {
+    "trip_id": 114,
+    "created_at": "2024-04-08 09:58:02",
+    "pilot_id": 93,
+    "traveler_id": 3,
+    "pilot_rating": 4,
+    "start_time": "2024-02-12 15:46:29",
+    "end_time": "2024-02-12 16:57:29",
+    "trip_value": 12216
+  },
+  {
+    "trip_id": 115,
+    "created_at": "2024-04-16 01:13:53",
+    "pilot_id": 97,
+    "traveler_id": 91,
+    "pilot_rating": 5,
+    "start_time": "2024-06-04 02:33:13",
+    "end_time": "2024-06-04 03:22:13",
+    "trip_value": 25541
+  },
+  {
+    "trip_id": 116,
+    "created_at": "2024-12-20 20:56:28",
+    "pilot_id": 41,
+    "traveler_id": 14,
+    "pilot_rating": 5,
+    "start_time": "2024-10-17 11:05:03",
+    "end_time": "2024-10-17 12:11:03",
+    "trip_value": 33570
+  },
+  {
+    "trip_id": 117,
+    "created_at": "2025-10-28 21:37:33",
+    "pilot_id": 40,
+    "traveler_id": 87,
+    "pilot_rating": 4,
+    "start_time": "2025-03-27 05:59:39",
+    "end_time": "2025-03-27 07:31:39",
+    "trip_value": 23975
+  },
+  {
+    "trip_id": 118,
+    "created_at": "2025-12-10 01:51:23",
+    "pilot_id": 42,
+    "traveler_id": 84,
+    "pilot_rating": 4,
+    "start_time": "2024-09-29 14:18:19",
+    "end_time": "2024-09-29 15:57:19",
+    "trip_value": 36590
+  },
+  {
+    "trip_id": 119,
+    "created_at": "2025-01-31 08:03:40",
+    "pilot_id": 77,
+    "traveler_id": 72,
+    "pilot_rating": 4,
+    "start_time": "2024-08-08 20:32:11",
+    "end_time": "2024-08-08 23:05:11",
+    "trip_value": 37205
+  },
+  {
+    "trip_id": 120,
+    "created_at": "2024-04-04 19:25:22",
+    "pilot_id": 34,
+    "traveler_id": 69,
+    "pilot_rating": 5,
+    "start_time": "2024-10-17 00:00:36",
+    "end_time": "2024-10-17 01:35:36",
+    "trip_value": 43864
+  },
+  {
+    "trip_id": 121,
+    "created_at": "2025-10-13 01:56:45",
+    "pilot_id": 60,
+    "traveler_id": 57,
+    "pilot_rating": 3,
+    "start_time": "2025-02-22 19:59:36",
+    "end_time": "2025-02-22 21:31:36",
+    "trip_value": 40554
+  },
+  {
+    "trip_id": 122,
+    "created_at": "2025-10-11 15:22:02",
+    "pilot_id": 79,
+    "traveler_id": 34,
+    "pilot_rating": 4,
+    "start_time": "2024-10-07 05:42:20",
+    "end_time": "2024-10-07 08:04:20",
+    "trip_value": 41380
+  },
+  {
+    "trip_id": 123,
+    "created_at": "2024-04-20 06:38:47",
+    "pilot_id": 99,
+    "traveler_id": 40,
+    "pilot_rating": 5,
+    "start_time": "2024-05-20 08:19:24",
+    "end_time": "2024-05-20 08:37:24",
+    "trip_value": 23868
+  },
+  {
+    "trip_id": 124,
+    "created_at": "2024-06-21 20:35:08",
+    "pilot_id": 14,
+    "traveler_id": 91,
+    "pilot_rating": 5,
+    "start_time": "2024-11-05 14:07:32",
+    "end_time": "2024-11-05 15:48:32",
+    "trip_value": 47703
+  },
+  {
+    "trip_id": 125,
+    "created_at": "2024-03-22 19:06:54",
+    "pilot_id": 79,
+    "traveler_id": 83,
+    "pilot_rating": 5,
+    "start_time": "2024-07-12 03:04:48",
+    "end_time": "2024-07-12 05:15:48",
+    "trip_value": 20882
+  },
+  {
+    "trip_id": 126,
+    "created_at": "2025-03-22 00:21:23",
+    "pilot_id": 91,
+    "traveler_id": 59,
+    "pilot_rating": 4,
+    "start_time": "2024-01-28 08:41:45",
+    "end_time": "2024-01-28 11:21:45",
+    "trip_value": 15380
+  },
+  {
+    "trip_id": 127,
+    "created_at": "2025-01-26 03:17:46",
+    "pilot_id": 15,
+    "traveler_id": 65,
+    "pilot_rating": 4,
+    "start_time": "2024-12-15 01:29:11",
+    "end_time": "2024-12-15 02:34:11",
+    "trip_value": 39626
+  },
+  {
+    "trip_id": 128,
+    "created_at": "2025-06-16 23:27:02",
+    "pilot_id": 66,
+    "traveler_id": 82,
+    "pilot_rating": 4,
+    "start_time": "2025-07-26 01:48:26",
+    "end_time": "2025-07-26 02:15:26",
+    "trip_value": 26227
+  },
+  {
+    "trip_id": 129,
+    "created_at": "2024-03-15 09:38:09",
+    "pilot_id": 6,
+    "traveler_id": 8,
+    "pilot_rating": 3,
+    "start_time": "2025-08-04 12:29:45",
+    "end_time": "2025-08-04 13:11:45",
+    "trip_value": 20990
+  },
+  {
+    "trip_id": 130,
+    "created_at": "2024-08-07 11:38:11",
+    "pilot_id": 14,
+    "traveler_id": 26,
+    "pilot_rating": 3,
+    "start_time": "2024-05-18 15:34:22",
+    "end_time": "2024-05-18 16:24:22",
+    "trip_value": 48084
+  },
+  {
+    "trip_id": 131,
+    "created_at": "2025-09-30 02:31:37",
+    "pilot_id": 57,
+    "traveler_id": 51,
+    "pilot_rating": 3,
+    "start_time": "2024-12-14 20:57:33",
+    "end_time": "2024-12-14 21:47:33",
+    "trip_value": 25894
+  },
+  {
+    "trip_id": 132,
+    "created_at": "2025-03-08 06:13:47",
+    "pilot_id": 20,
+    "traveler_id": 17,
+    "pilot_rating": 4,
+    "start_time": "2024-09-14 01:39:33",
+    "end_time": "2024-09-14 04:02:33",
+    "trip_value": 49683
+  },
+  {
+    "trip_id": 133,
+    "created_at": "2024-06-18 06:51:38",
+    "pilot_id": 49,
+    "traveler_id": 64,
+    "pilot_rating": 3,
+    "start_time": "2024-01-28 13:26:00",
+    "end_time": "2024-01-28 15:37:00",
+    "trip_value": 17829
+  },
+  {
+    "trip_id": 134,
+    "created_at": "2024-03-06 22:08:57",
+    "pilot_id": 19,
+    "traveler_id": 91,
+    "pilot_rating": 3,
+    "start_time": "2024-04-20 14:06:03",
+    "end_time": "2024-04-20 16:32:03",
+    "trip_value": 32352
+  },
+  {
+    "trip_id": 135,
+    "created_at": "2025-07-19 09:12:50",
+    "pilot_id": 93,
+    "traveler_id": 50,
+    "pilot_rating": 3,
+    "start_time": "2024-07-06 05:39:09",
+    "end_time": "2024-07-06 08:12:09",
+    "trip_value": 39214
+  },
+  {
+    "trip_id": 136,
+    "created_at": "2024-05-15 21:52:17",
+    "pilot_id": 8,
+    "traveler_id": 26,
+    "pilot_rating": 4,
+    "start_time": "2024-05-18 23:06:16",
+    "end_time": "2024-05-18 23:56:16",
+    "trip_value": 33394
+  },
+  {
+    "trip_id": 137,
+    "created_at": "2025-11-30 23:55:34",
+    "pilot_id": 50,
+    "traveler_id": 66,
+    "pilot_rating": 3,
+    "start_time": "2025-08-01 05:12:18",
+    "end_time": "2025-08-01 05:50:18",
+    "trip_value": 12067
+  },
+  {
+    "trip_id": 138,
+    "created_at": "2024-05-28 20:37:04",
+    "pilot_id": 32,
+    "traveler_id": 81,
+    "pilot_rating": 3,
+    "start_time": "2025-03-04 08:21:18",
+    "end_time": "2025-03-04 11:10:18",
+    "trip_value": 47120
+  },
+  {
+    "trip_id": 139,
+    "created_at": "2025-08-20 16:56:30",
+    "pilot_id": 42,
+    "traveler_id": 66,
+    "pilot_rating": 4,
+    "start_time": "2024-06-15 03:30:06",
+    "end_time": "2024-06-15 05:54:06",
+    "trip_value": 21216
+  },
+  {
+    "trip_id": 140,
+    "created_at": "2025-04-27 07:58:05",
+    "pilot_id": 50,
+    "traveler_id": 96,
+    "pilot_rating": 5,
+    "start_time": "2025-01-25 02:54:56",
+    "end_time": "2025-01-25 03:13:56",
+    "trip_value": 23732
+  },
+  {
+    "trip_id": 141,
+    "created_at": "2025-02-11 19:52:01",
+    "pilot_id": 70,
+    "traveler_id": 86,
+    "pilot_rating": 5,
+    "start_time": "2025-08-11 23:38:12",
+    "end_time": "2025-08-12 01:05:12",
+    "trip_value": 48516
+  },
+  {
+    "trip_id": 142,
+    "created_at": "2024-10-27 09:36:58",
+    "pilot_id": 69,
+    "traveler_id": 73,
+    "pilot_rating": 4,
+    "start_time": "2024-05-11 18:12:44",
+    "end_time": "2024-05-11 19:08:44",
+    "trip_value": 18994
+  },
+  {
+    "trip_id": 143,
+    "created_at": "2025-08-03 04:37:21",
+    "pilot_id": 93,
+    "traveler_id": 20,
+    "pilot_rating": 5,
+    "start_time": "2024-01-29 21:06:21",
+    "end_time": "2024-01-29 22:25:21",
+    "trip_value": 43622
+  },
+  {
+    "trip_id": 144,
+    "created_at": "2025-11-06 15:16:25",
+    "pilot_id": 78,
+    "traveler_id": 26,
+    "pilot_rating": 5,
+    "start_time": "2025-09-02 09:16:01",
+    "end_time": "2025-09-02 11:18:01",
+    "trip_value": 47021
+  },
+  {
+    "trip_id": 145,
+    "created_at": "2024-05-19 07:26:18",
+    "pilot_id": 21,
+    "traveler_id": 91,
+    "pilot_rating": 3,
+    "start_time": "2025-03-24 07:49:20",
+    "end_time": "2025-03-24 09:18:20",
+    "trip_value": 11838
+  },
+  {
+    "trip_id": 146,
+    "created_at": "2024-04-15 08:54:25",
+    "pilot_id": 40,
+    "traveler_id": 87,
+    "pilot_rating": 5,
+    "start_time": "2025-05-31 09:58:04",
+    "end_time": "2025-05-31 11:55:04",
+    "trip_value": 17499
+  },
+  {
+    "trip_id": 147,
+    "created_at": "2025-11-16 15:24:46",
+    "pilot_id": 12,
+    "traveler_id": 25,
+    "pilot_rating": 4,
+    "start_time": "2024-05-07 18:54:22",
+    "end_time": "2024-05-07 21:39:22",
+    "trip_value": 31696
+  },
+  {
+    "trip_id": 148,
+    "created_at": "2024-09-01 04:01:54",
+    "pilot_id": 55,
+    "traveler_id": 4,
+    "pilot_rating": 4,
+    "start_time": "2025-03-03 09:46:17",
+    "end_time": "2025-03-03 10:20:17",
+    "trip_value": 11246
+  },
+  {
+    "trip_id": 149,
+    "created_at": "2024-07-30 14:45:06",
+    "pilot_id": 14,
+    "traveler_id": 40,
+    "pilot_rating": 5,
+    "start_time": "2025-06-26 19:38:02",
+    "end_time": "2025-06-26 20:11:02",
+    "trip_value": 46395
+  },
+  {
+    "trip_id": 150,
+    "created_at": "2024-05-16 15:27:58",
+    "pilot_id": 69,
+    "traveler_id": 75,
+    "pilot_rating": 3,
+    "start_time": "2025-07-15 07:15:12",
+    "end_time": "2025-07-15 09:03:12",
+    "trip_value": 41342
+  },
+  {
+    "trip_id": 151,
+    "created_at": "2025-07-18 18:48:50",
+    "pilot_id": 11,
+    "traveler_id": 35,
+    "pilot_rating": 5,
+    "start_time": "2024-08-25 12:25:25",
+    "end_time": "2024-08-25 13:14:25",
+    "trip_value": 15649
+  },
+  {
+    "trip_id": 152,
+    "created_at": "2025-04-19 17:46:09",
+    "pilot_id": 97,
+    "traveler_id": 40,
+    "pilot_rating": 4,
+    "start_time": "2025-05-24 01:36:26",
+    "end_time": "2025-05-24 02:44:26",
+    "trip_value": 20931
+  },
+  {
+    "trip_id": 153,
+    "created_at": "2025-07-24 09:18:49",
+    "pilot_id": 22,
+    "traveler_id": 79,
+    "pilot_rating": 4,
+    "start_time": "2025-03-06 06:59:13",
+    "end_time": "2025-03-06 08:01:13",
+    "trip_value": 21333
+  },
+  {
+    "trip_id": 154,
+    "created_at": "2024-11-19 19:59:31",
+    "pilot_id": 59,
+    "traveler_id": 89,
+    "pilot_rating": 5,
+    "start_time": "2024-11-19 23:05:10",
+    "end_time": "2024-11-20 00:22:10",
+    "trip_value": 31794
+  },
+  {
+    "trip_id": 155,
+    "created_at": "2024-03-28 19:00:22",
+    "pilot_id": 93,
+    "traveler_id": 14,
+    "pilot_rating": 4,
+    "start_time": "2025-06-16 02:21:57",
+    "end_time": "2025-06-16 05:17:57",
+    "trip_value": 40212
+  },
+  {
+    "trip_id": 156,
+    "created_at": "2025-03-04 00:47:48",
+    "pilot_id": 38,
+    "traveler_id": 52,
+    "pilot_rating": 4,
+    "start_time": "2025-12-22 16:47:47",
+    "end_time": "2025-12-22 17:32:47",
+    "trip_value": 43877
+  },
+  {
+    "trip_id": 157,
+    "created_at": "2024-01-11 10:18:34",
+    "pilot_id": 43,
+    "traveler_id": 18,
+    "pilot_rating": 5,
+    "start_time": "2024-06-18 11:54:41",
+    "end_time": "2024-06-18 12:23:41",
+    "trip_value": 26498
+  },
+  {
+    "trip_id": 158,
+    "created_at": "2025-12-25 16:50:26",
+    "pilot_id": 89,
+    "traveler_id": 13,
+    "pilot_rating": 5,
+    "start_time": "2024-07-06 07:28:21",
+    "end_time": "2024-07-06 10:27:21",
+    "trip_value": 27800
+  },
+  {
+    "trip_id": 159,
+    "created_at": "2025-10-24 05:03:27",
+    "pilot_id": 52,
+    "traveler_id": 65,
+    "pilot_rating": 3,
+    "start_time": "2024-08-21 01:02:30",
+    "end_time": "2024-08-21 03:20:30",
+    "trip_value": 26589
+  },
+  {
+    "trip_id": 160,
+    "created_at": "2025-02-14 20:08:44",
+    "pilot_id": 99,
+    "traveler_id": 5,
+    "pilot_rating": 5,
+    "start_time": "2025-04-01 12:22:42",
+    "end_time": "2025-04-01 13:38:42",
+    "trip_value": 27227
+  },
+  {
+    "trip_id": 161,
+    "created_at": "2024-09-27 22:19:01",
+    "pilot_id": 8,
+    "traveler_id": 61,
+    "pilot_rating": 3,
+    "start_time": "2025-10-22 01:17:53",
+    "end_time": "2025-10-22 02:51:53",
+    "trip_value": 32751
+  },
+  {
+    "trip_id": 162,
+    "created_at": "2024-02-04 07:21:52",
+    "pilot_id": 66,
+    "traveler_id": 91,
+    "pilot_rating": 4,
+    "start_time": "2024-04-22 05:04:10",
+    "end_time": "2024-04-22 05:15:10",
+    "trip_value": 33817
+  },
+  {
+    "trip_id": 163,
+    "created_at": "2025-02-27 20:13:50",
+    "pilot_id": 58,
+    "traveler_id": 44,
+    "pilot_rating": 3,
+    "start_time": "2024-03-25 09:13:41",
+    "end_time": "2024-03-25 10:15:41",
+    "trip_value": 48740
+  },
+  {
+    "trip_id": 164,
+    "created_at": "2025-12-23 18:10:01",
+    "pilot_id": 71,
+    "traveler_id": 41,
+    "pilot_rating": 4,
+    "start_time": "2024-05-13 20:22:38",
+    "end_time": "2024-05-13 22:42:38",
+    "trip_value": 12088
+  },
+  {
+    "trip_id": 165,
+    "created_at": "2024-03-26 21:17:47",
+    "pilot_id": 68,
+    "traveler_id": 26,
+    "pilot_rating": 3,
+    "start_time": "2024-03-09 19:52:24",
+    "end_time": "2024-03-09 22:17:24",
+    "trip_value": 30508
+  },
+  {
+    "trip_id": 166,
+    "created_at": "2025-03-05 07:08:20",
+    "pilot_id": 36,
+    "traveler_id": 98,
+    "pilot_rating": 4,
+    "start_time": "2025-02-06 15:20:35",
+    "end_time": "2025-02-06 15:58:35",
+    "trip_value": 32813
+  },
+  {
+    "trip_id": 167,
+    "created_at": "2025-08-17 06:49:32",
+    "pilot_id": 80,
+    "traveler_id": 97,
+    "pilot_rating": 5,
+    "start_time": "2024-11-09 00:48:25",
+    "end_time": "2024-11-09 03:38:25",
+    "trip_value": 21377
+  },
+  {
+    "trip_id": 168,
+    "created_at": "2025-01-12 17:35:32",
+    "pilot_id": 62,
+    "traveler_id": 53,
+    "pilot_rating": 3,
+    "start_time": "2025-03-30 11:38:17",
+    "end_time": "2025-03-30 13:23:17",
+    "trip_value": 26498
+  },
+  {
+    "trip_id": 169,
+    "created_at": "2025-12-04 03:32:00",
+    "pilot_id": 69,
+    "traveler_id": 41,
+    "pilot_rating": 4,
+    "start_time": "2025-12-20 22:08:47",
+    "end_time": "2025-12-21 00:41:47",
+    "trip_value": 16061
+  },
+  {
+    "trip_id": 170,
+    "created_at": "2024-08-29 00:00:18",
+    "pilot_id": 91,
+    "traveler_id": 48,
+    "pilot_rating": 3,
+    "start_time": "2025-02-02 18:59:12",
+    "end_time": "2025-02-02 21:42:12",
+    "trip_value": 20434
+  },
+  {
+    "trip_id": 171,
+    "created_at": "2025-02-04 05:26:01",
+    "pilot_id": 36,
+    "traveler_id": 59,
+    "pilot_rating": 5,
+    "start_time": "2024-10-24 01:51:05",
+    "end_time": "2024-10-24 02:41:05",
+    "trip_value": 32728
+  },
+  {
+    "trip_id": 172,
+    "created_at": "2024-07-29 07:19:29",
+    "pilot_id": 45,
+    "traveler_id": 36,
+    "pilot_rating": 3,
+    "start_time": "2024-03-03 11:38:24",
+    "end_time": "2024-03-03 11:53:24",
+    "trip_value": 40642
+  },
+  {
+    "trip_id": 173,
+    "created_at": "2025-08-14 04:01:30",
+    "pilot_id": 72,
+    "traveler_id": 37,
+    "pilot_rating": 4,
+    "start_time": "2025-06-06 12:50:08",
+    "end_time": "2025-06-06 15:02:08",
+    "trip_value": 25179
+  },
+  {
+    "trip_id": 174,
+    "created_at": "2025-01-04 04:54:17",
+    "pilot_id": 70,
+    "traveler_id": 10,
+    "pilot_rating": 3,
+    "start_time": "2025-04-23 06:25:36",
+    "end_time": "2025-04-23 07:13:36",
+    "trip_value": 20332
+  },
+  {
+    "trip_id": 175,
+    "created_at": "2025-09-22 11:50:36",
+    "pilot_id": 37,
+    "traveler_id": 50,
+    "pilot_rating": 3,
+    "start_time": "2024-08-26 18:20:45",
+    "end_time": "2024-08-26 20:30:45",
+    "trip_value": 26505
+  },
+  {
+    "trip_id": 176,
+    "created_at": "2024-07-22 00:09:39",
+    "pilot_id": 45,
+    "traveler_id": 79,
+    "pilot_rating": 3,
+    "start_time": "2024-11-14 11:43:51",
+    "end_time": "2024-11-14 12:22:51",
+    "trip_value": 33857
+  },
+  {
+    "trip_id": 177,
+    "created_at": "2025-01-20 13:18:40",
+    "pilot_id": 74,
+    "traveler_id": 13,
+    "pilot_rating": 5,
+    "start_time": "2025-12-06 15:49:47",
+    "end_time": "2025-12-06 17:31:47",
+    "trip_value": 34860
+  },
+  {
+    "trip_id": 178,
+    "created_at": "2025-08-16 21:43:39",
+    "pilot_id": 47,
+    "traveler_id": 56,
+    "pilot_rating": 3,
+    "start_time": "2024-01-06 16:15:43",
+    "end_time": "2024-01-06 17:49:43",
+    "trip_value": 17081
+  },
+  {
+    "trip_id": 179,
+    "created_at": "2025-11-30 07:14:48",
+    "pilot_id": 72,
+    "traveler_id": 55,
+    "pilot_rating": 5,
+    "start_time": "2024-11-03 18:01:45",
+    "end_time": "2024-11-03 18:35:45",
+    "trip_value": 30707
+  },
+  {
+    "trip_id": 180,
+    "created_at": "2024-11-29 19:24:20",
+    "pilot_id": 9,
+    "traveler_id": 46,
+    "pilot_rating": 4,
+    "start_time": "2024-10-20 10:49:37",
+    "end_time": "2024-10-20 12:30:37",
+    "trip_value": 37041
+  },
+  {
+    "trip_id": 181,
+    "created_at": "2024-07-31 07:48:25",
+    "pilot_id": 45,
+    "traveler_id": 20,
+    "pilot_rating": 4,
+    "start_time": "2025-07-27 06:18:25",
+    "end_time": "2025-07-27 07:56:25",
+    "trip_value": 32050
+  },
+  {
+    "trip_id": 182,
+    "created_at": "2025-12-31 07:46:12",
+    "pilot_id": 7,
+    "traveler_id": 100,
+    "pilot_rating": 3,
+    "start_time": "2024-07-08 11:26:15",
+    "end_time": "2024-07-08 13:54:15",
+    "trip_value": 32445
+  },
+  {
+    "trip_id": 183,
+    "created_at": "2024-09-11 05:52:10",
+    "pilot_id": 79,
+    "traveler_id": 78,
+    "pilot_rating": 3,
+    "start_time": "2025-08-18 15:49:25",
+    "end_time": "2025-08-18 18:18:25",
+    "trip_value": 44274
+  },
+  {
+    "trip_id": 184,
+    "created_at": "2024-03-04 15:19:18",
+    "pilot_id": 99,
+    "traveler_id": 99,
+    "pilot_rating": 5,
+    "start_time": "2025-05-04 21:12:37",
+    "end_time": "2025-05-05 00:00:37",
+    "trip_value": 33480
+  },
+  {
+    "trip_id": 185,
+    "created_at": "2024-02-29 09:57:52",
+    "pilot_id": 81,
+    "traveler_id": 91,
+    "pilot_rating": 4,
+    "start_time": "2025-05-28 07:55:59",
+    "end_time": "2025-05-28 10:40:59",
+    "trip_value": 43258
+  },
+  {
+    "trip_id": 186,
+    "created_at": "2025-04-25 00:07:00",
+    "pilot_id": 78,
+    "traveler_id": 34,
+    "pilot_rating": 3,
+    "start_time": "2025-10-18 23:24:02",
+    "end_time": "2025-10-19 01:09:02",
+    "trip_value": 21398
+  },
+  {
+    "trip_id": 187,
+    "created_at": "2024-09-10 15:39:26",
+    "pilot_id": 67,
+    "traveler_id": 40,
+    "pilot_rating": 4,
+    "start_time": "2025-07-02 09:14:47",
+    "end_time": "2025-07-02 11:17:47",
+    "trip_value": 21252
+  },
+  {
+    "trip_id": 188,
+    "created_at": "2024-07-07 16:42:50",
+    "pilot_id": 3,
+    "traveler_id": 3,
+    "pilot_rating": 5,
+    "start_time": "2024-11-10 22:26:50",
+    "end_time": "2024-11-10 23:54:50",
+    "trip_value": 15681
+  },
+  {
+    "trip_id": 189,
+    "created_at": "2024-02-25 18:34:44",
+    "pilot_id": 36,
+    "traveler_id": 80,
+    "pilot_rating": 5,
+    "start_time": "2024-05-01 02:04:43",
+    "end_time": "2024-05-01 03:48:43",
+    "trip_value": 13334
+  },
+  {
+    "trip_id": 190,
+    "created_at": "2024-07-07 13:49:08",
+    "pilot_id": 9,
+    "traveler_id": 49,
+    "pilot_rating": 5,
+    "start_time": "2024-07-19 17:50:19",
+    "end_time": "2024-07-19 19:30:19",
+    "trip_value": 34356
+  },
+  {
+    "trip_id": 191,
+    "created_at": "2025-06-04 05:21:43",
+    "pilot_id": 64,
+    "traveler_id": 43,
+    "pilot_rating": 5,
+    "start_time": "2024-06-08 13:40:48",
+    "end_time": "2024-06-08 15:57:48",
+    "trip_value": 41403
+  },
+  {
+    "trip_id": 192,
+    "created_at": "2025-08-22 08:34:26",
+    "pilot_id": 84,
+    "traveler_id": 99,
+    "pilot_rating": 5,
+    "start_time": "2025-12-15 02:24:41",
+    "end_time": "2025-12-15 03:16:41",
+    "trip_value": 19296
+  },
+  {
+    "trip_id": 193,
+    "created_at": "2024-10-09 03:54:04",
+    "pilot_id": 97,
+    "traveler_id": 80,
+    "pilot_rating": 4,
+    "start_time": "2024-07-22 08:04:32",
+    "end_time": "2024-07-22 08:46:32",
+    "trip_value": 41856
+  },
+  {
+    "trip_id": 194,
+    "created_at": "2024-11-28 06:46:55",
+    "pilot_id": 26,
+    "traveler_id": 25,
+    "pilot_rating": 3,
+    "start_time": "2025-05-31 16:02:37",
+    "end_time": "2025-05-31 16:37:37",
+    "trip_value": 38377
+  },
+  {
+    "trip_id": 195,
+    "created_at": "2024-11-28 10:30:33",
+    "pilot_id": 36,
+    "traveler_id": 85,
+    "pilot_rating": 3,
+    "start_time": "2025-02-16 22:02:56",
+    "end_time": "2025-02-16 22:34:56",
+    "trip_value": 44009
+  },
+  {
+    "trip_id": 196,
+    "created_at": "2024-11-11 21:54:12",
+    "pilot_id": 25,
+    "traveler_id": 9,
+    "pilot_rating": 3,
+    "start_time": "2025-01-01 00:47:08",
+    "end_time": "2025-01-01 03:43:08",
+    "trip_value": 39763
+  },
+  {
+    "trip_id": 197,
+    "created_at": "2025-02-22 15:37:16",
+    "pilot_id": 18,
+    "traveler_id": 24,
+    "pilot_rating": 3,
+    "start_time": "2025-06-23 09:35:32",
+    "end_time": "2025-06-23 11:55:32",
+    "trip_value": 38752
+  },
+  {
+    "trip_id": 198,
+    "created_at": "2025-09-16 08:42:41",
+    "pilot_id": 38,
+    "traveler_id": 3,
+    "pilot_rating": 4,
+    "start_time": "2025-05-25 15:03:23",
+    "end_time": "2025-05-25 16:16:23",
+    "trip_value": 47297
+  },
+  {
+    "trip_id": 199,
+    "created_at": "2024-04-16 20:09:46",
+    "pilot_id": 19,
+    "traveler_id": 14,
+    "pilot_rating": 4,
+    "start_time": "2024-12-10 03:10:11",
+    "end_time": "2024-12-10 03:24:11",
+    "trip_value": 24559
+  },
+  {
+    "trip_id": 200,
+    "created_at": "2024-08-11 01:45:50",
+    "pilot_id": 48,
+    "traveler_id": 73,
+    "pilot_rating": 5,
+    "start_time": "2025-10-31 17:05:31",
+    "end_time": "2025-10-31 18:18:31",
+    "trip_value": 40213
+  }
+]
