@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  rocky:
+    image: rocky:latest
+    container_name: rocky_container
+    stdin_open: true
+    tty: true
+    init: true
+    restart: unless-stopped
+    volumes:
+      - ./data:/workspace/data
+    environment:
+      - LANG=C.UTF-8
