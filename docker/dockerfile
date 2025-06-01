@@ -24,13 +24,21 @@ RUN dnf -y update && \
     readline-devel \
     libffi-devel \
     openssl-devel \
+    dnf-utils \
+    curl \
     java-1.8.0-openjdk-devel && \
     dnf clean all
 
-# PostgreSQL 16 설치
-RUN dnf install -y https://download.postgresql.org/pub/repos/yum/reporpms/EL-8-x86_64/pgdg-redhat-repo-latest.noarch.rpm && \
-    dnf -qy module disable postgresql && \
-    dnf install -y postgresql16 postgresql16-server && \
+# PostgreSQL 저장소 구성
+RUN echo -e "[pgdg16]\n\
+name=PostgreSQL 16 for RHEL 8 - x86_64\n\
+baseurl=https://download.postgresql.org/pub/repos/yum/16/redhat/rhel-8-x86_64\n\
+enabled=1\n\
+gpgcheck=0" > /etc/yum.repos.d/pgdg.repo
+
+# PostgreSQL 기본 저장소 비활성화, 16 설치
+RUN dnf -qy module disable postgresql && \
+    dnf install -y postgresql16 postgresql16-server postgresql16-contrib --skip-broken && \
     dnf clean all
 
 # Python 소스 설치
@@ -69,4 +77,7 @@ ENV PATH="$PATH:/opt/spark/bin:/opt/kafka/bin"
 WORKDIR /workspace
 RUN mkdir /workspace/data
 
-CMD ["/bin/bash"]
+COPY entrypoint.sh /workspace/entrypoint.sh
+RUN chmod +x /workspace/entrypoint.sh
+
+CMD ["/workspace/entrypoint.sh"]
